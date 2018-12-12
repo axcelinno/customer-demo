@@ -1,4 +1,4 @@
-me: Dark Side Playbook
+- name: Dark Side Playbook
   hosts: all
   tasks:
     - name: Dark Side Message
