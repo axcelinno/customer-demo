@@ -1,0 +1,7 @@
+me: Dark Side Playbook
+  hosts: all
+  tasks:
+    - name: Dark Side Message
+      debug:
+        msg: "Impressive. Most impressive. Obi-Wan has taught you well..."
+
